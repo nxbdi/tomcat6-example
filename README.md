@@ -18,7 +18,7 @@ Get your EWS/Tomcat running
 Grab this quickstart codes and make it working for you!
 
     cd tomcat
-    git remote add upstream -m master git://github.com/bdecoste/tomcat6-example.git
+    git remote add upstream -m master git://github.com/openshift/tomcat6-example.git
     git pull -s recursive -X theirs upstream master
     git push
 
