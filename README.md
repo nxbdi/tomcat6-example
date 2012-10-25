@@ -22,11 +22,11 @@ Grab this quickstart codes and make it working for you!
     git pull -s recursive -X theirs upstream master
     git push
 
-That's it, you can now checkout your GlassFish3 at:
+That's it, you can now checkout your Tomcat at:
 
     http://tomcat-$yournamespace.rhcloud.com
 
 And a sample war has been deployed already:
 
-    http://tomcat-$yournamespace.rhcloud.com/openshift
+    http://tomcat-$yournamespace.rhcloud.com
 
